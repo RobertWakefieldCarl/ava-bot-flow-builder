@@ -1,0 +1,14 @@
+# Packaged bundles are build output; rebuild them from the skill folders.
+dist/
+
+# Session artifacts, which carry customer content and live with the session, not the skill.
+*.bak
+bot-flow*.yaml
+bot-flow-plan.json
+bot-flow-result.json
+bot-flow-discovery.json
+*-handoff.html
+
+node_modules/
+.DS_Store
+Thumbs.db

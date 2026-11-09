@@ -1,0 +1,24 @@
+{
+  "source": "https://api.mypurecloud.com/api/v2/docs/swagger",
+  "canonicalSource": "https://api.mypurecloud.com/api/v2/docs/swagger",
+  "fetchedAt": "2026-08-24T16:44:59.146Z",
+  "title": "PureCloud Platform API",
+  "apiVersion": "v2",
+  "swaggerVersion": "2.0",
+  "upstreamLicense": {
+    "name": "UNLICENSED",
+    "url": "https://help.genesys.cloud/articles/terms-and-conditions/"
+  },
+  "full": {
+    "file": "purecloud-platform-api-v2.json",
+    "bytes": 22805190,
+    "sha256": "dfcac5a40c29de9c0a371b5d6ae3f6ca3be0fa8f99d77b444a517beead678e5e"
+  },
+  "subset": {
+    "file": "wrapup-codes.openapi.json",
+    "bytes": 203959,
+    "sha256": "b178efd8661d6ff00220e9e941d17675d6862af6780214629dda47e98fb11623",
+    "operations": 17,
+    "definitions": 51
+  }
+}
